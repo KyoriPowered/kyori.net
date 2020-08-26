@@ -1,3 +1,7 @@
+.nav-link {
+  color: var(--blue) !important;
+}
+
 .link-disabled {
   color: grey;
   pointer-events: none;
